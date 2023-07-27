@@ -8,4 +8,4 @@ from create_one_attribute import Person
 p1=Person("Anvar")
 p2=Person("Shavkat")
 p3=Person("Jasur")
-print(p1.name,"\n",p2.name,"\n",p3.name)
+print([p1.name,p2.name,p3.name])
